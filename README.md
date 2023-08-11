@@ -1,2 +1,2 @@
 # reactive-spring-webflux
-Reactive Spring Webflux
+Spring Webflux
